@@ -1,5 +1,5 @@
 import { test as base } from '@playwright/test';
-import { CoffeeCartPage } from '../pages/coffeeCartPage';
+import { CoffeeCartPage } from '../pages/CartPage';
 
 type CustomFixtures = {
     coffeeCartPage: CoffeeCartPage;

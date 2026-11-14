@@ -1,5 +1,5 @@
 import { test } from '../fixtures/testFixture';
-import { customerData } from '../data/testdata';
+import { customerData } from '../data/testData';
 
 test('Automated Flow: Add products, handle promo, and checkout', async ({ coffeeCartPage }) => {
     
